@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Phone 16",
+    "price": 30000,
+    "cate_id": 1,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/329148/iphone-16-pro-titan-tu-nhien.png"
+  },
+  {
+    "id": "2",
+    "name": "Samsung galaxy A57",
+    "price": 50000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95k9mfKKxfnZ9HC3rNXP_vzpOl0zHi8-UZaP_x7o0aA&s=10"
+  },
+  {
+    "id": "3",
+    "name": "Redmi 15",
+    "price": 10000000000000000000000000000000000000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJ0Xgh73eLfsDzvsQsgJtyXwRqEM_MxHaW3Q9ny2i6g&s=10"
+  },
+  {
+    "id": "4",
+    "name": "Oppo A3",
+    "price": 20000000000000000000000000000000000000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclqPSiPJZZqr0hiYCstrb433-OYJ22O-ALLWnd6-a1g&s=10"
+  },
+  {
+    "id": "5",
+    "name": "Lenovo thinkbook X g3",
+    "price": 30000000000000000000000000000000000000,
+    "cate_id": 2,
+    "image": "https://lapvip.vn/upload/products/thumb_350x0/lenovo-thinkbook-x-g3-2026-ai-1787821742.png"
+  },
+  {
+    "id": "6",
+    "name": "Lenovo Idea Tab Pro Gen 2",
+    "price": 70000000000000000000000000000000000000,
+    "cate_id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDwAiZyJIybkhQjaQfvwbT2DQSQmlml9xiNyiu3uytQMLCCPB-5TR8Q&s=10"
+  }
+]
